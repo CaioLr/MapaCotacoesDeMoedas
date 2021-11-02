@@ -1,2 +1,2 @@
-# mapa-gr-fico-cota-es-de-moedas-
+# MapaCotacoesDeMoedas
 Analisando dados com Python e Jupyter 
